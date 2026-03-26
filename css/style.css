@@ -201,7 +201,9 @@ margin-bottom:10px;
 .card p{
 color:#555;
 }
-
+video{
+    border-radius: 5%;
+}
 
 /* CONTATO */
 
